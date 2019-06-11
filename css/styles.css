@@ -1,0 +1,54 @@
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
+#title{
+  background: #ff4c68;
+  height: 700px;
+
+}
+
+.main-header{
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #ffff;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+
+}
+
+.iphone-img{
+  transform: rotate(22deg);
+  width: 60%;
+
+}
+            /* NAVBAR */
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+
+.btn-lg{
+  padding: .4rem 1.3rem;
+}
+
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
